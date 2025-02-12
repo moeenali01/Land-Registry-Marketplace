@@ -51,7 +51,7 @@ This contract ensures transparency, security, and seamless land transactions in 
 - **Network:** Ethereum (Holesky Testnet)
 - **Chain ID:** `17000` <!-- Add Chain ID if applicable -->
 
--  **Crowd-Fund Contract Address:** [`0x5f7b34be22b906c873e23569E8801fBD7c16199b`](https://holesky.etherscan.io/address/0x5f7b34be22b906c873e23569E8801fBD7c16199b#code) <!-- Add your deployed contract address -->
+-  **Land-Reg Contract Address:** [`0x5f7b34be22b906c873e23569E8801fBD7c16199b`](https://holesky.etherscan.io/address/0x5f7b34be22b906c873e23569E8801fBD7c16199b#code) <!-- Add your deployed contract address -->
 - **Etherscan Verification:** ✅ Verified
 - **Explorer Link:** [View on Etherscan](https://holesky.etherscan.io/address/0x5f7b34be22b906c873e23569E8801fBD7c16199b#code) <!-- Add link to verified contract on Etherscan -->
 
